@@ -1,0 +1,1 @@
+const jokes = ['Says', 'I am', 'Art', 'Weekend', 'I.O.']
